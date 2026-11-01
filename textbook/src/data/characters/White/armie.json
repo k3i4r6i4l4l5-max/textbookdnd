@@ -1,0 +1,21 @@
+{
+  "id": "armie",
+  "name": "Armie",
+  "image": "characters/White/Armie.png",
+  "side": "white",
+  "roles": [
+    "figure"
+  ],
+  "personality": "lawful-good",
+  "affiliation": [
+    "Группа Сей"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": [
+    "star",
+    "witch-factor",
+    "fire"
+  ],
+  "artifacts": null
+}

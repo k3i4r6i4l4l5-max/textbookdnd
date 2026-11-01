@@ -1,0 +1,19 @@
+{
+  "id": "kassandre",
+  "name": "Kassandre",
+  "image": "characters/Black/Kassandre.png",
+  "side": "black",
+  "roles": [
+    "figure"
+  ],
+  "personality": "lawful-good",
+  "affiliation": [
+    "Организация Фааля"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": [
+    "earth"
+  ],
+  "artifacts": null
+}

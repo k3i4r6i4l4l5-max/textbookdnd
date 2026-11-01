@@ -1,0 +1,15 @@
+{
+  "id": "jester",
+  "name": "Jester",
+  "image": "characters/Watchers/jester.png",
+  "side": "unknown",
+  "roles": [
+    "observer"
+  ],
+  "personality": "chaotic-neutral",
+  "affiliation": "Наблюдатели",
+  "description": "",
+  "knownInfo": "Мальчишка в желтом. Намерение неизвестно, но известно, что он жаждет лишь инетерсного сюжета",
+  "attributes": "not-applicable",
+  "artifacts": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "melystress",
+  "name": "Melystress",
+  "image": "characters/Witches/Melystress.png",
+  "side": "unknown",
+  "roles": [
+    "witch"
+  ],
+  "personality": "chaotic-evil",
+  "affiliation": [
+    "Witches"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": [
+    "witch-factor"
+  ],
+  "artifacts": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "victoria",
+  "name": "Victoria",
+  "image": "characters/Neutral/Victoria.jpg",
+  "side": "neutral",
+  "roles": [
+    "figure"
+  ],
+  "personality": "lawful-good",
+  "affiliation": [
+    "Rokkenjima"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": [],
+  "artifacts": null
+}

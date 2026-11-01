@@ -1,0 +1,20 @@
+{
+  "id": "unknown",
+  "name": "Unknown",
+  "image": "characters/Witches/Unknown.png",
+  "side": "unknown",
+  "roles": [
+    "witch"
+  ],
+  "personality": "lawful-good",
+  "affiliation": [
+    "Witches"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": [
+    "water",
+    "witch-factor"
+  ],
+  "artifacts": null
+}

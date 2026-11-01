@@ -1,0 +1,19 @@
+{
+  "id": "doctor-card",
+  "name": "Doctor",
+  "image": "characters/White/Doctor Card.png",
+  "side": "white",
+  "roles": [
+    "figure"
+  ],
+  "personality": "lawful-good",
+  "affiliation": [
+    "Группа Сей"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": [
+    "darkness"
+  ],
+  "artifacts": null
+}

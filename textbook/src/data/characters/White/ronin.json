@@ -1,0 +1,19 @@
+{
+  "id": "ronin",
+  "name": "Ronin",
+  "image": "characters/White/Ronin.jpeg",
+  "side": "white",
+  "roles": [
+    "figure"
+  ],
+  "personality": "lawful-good",
+  "affiliation": [
+    "Star of West"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": [
+    "star"
+  ],
+  "artifacts": null
+}

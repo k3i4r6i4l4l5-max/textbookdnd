@@ -1,0 +1,20 @@
+{
+  "id": "dante",
+  "name": "Dante",
+  "image": "characters/Black/Dante.jpg",
+  "side": "black",
+  "roles": [
+    "figure"
+  ],
+  "personality": "lawful-evil",
+  "affiliation": [
+    "Группа Сей",
+    "Titul"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": [
+    "lightning"
+  ],
+  "artifacts": null
+}

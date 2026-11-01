@@ -1,0 +1,17 @@
+{
+  "id": "unknown2",
+  "name": "Unknown 2",
+  "image": "characters/Wonderworkers/unknown2.png",
+  "side": "unknown",
+  "roles": [
+    "wonderworker"
+  ],
+  "personality": "not-applicable",
+  "affiliation": [
+    "Неприменимо"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": "not-applicable",
+  "artifacts": null
+}

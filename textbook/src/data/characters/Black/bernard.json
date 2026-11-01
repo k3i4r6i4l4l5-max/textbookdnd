@@ -1,0 +1,19 @@
+{
+  "id": "bernard",
+  "name": "Bernard",
+  "image": "characters/Black/Bernard.png",
+  "side": "black",
+  "roles": [
+    "figure"
+  ],
+  "personality": "lawful-evil",
+  "affiliation": [
+    "Titul"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": [
+    "earth"
+  ],
+  "artifacts": null
+}

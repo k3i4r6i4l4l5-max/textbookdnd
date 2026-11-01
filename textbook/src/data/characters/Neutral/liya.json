@@ -1,0 +1,20 @@
+{
+  "id": "liya",
+  "name": "Liya",
+  "image": "characters/Neutral/Liya.png",
+  "side": "neutral",
+  "roles": [
+    "figure"
+  ],
+  "personality": "lawful-good",
+  "affiliation": [
+    "Rokkenjima"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": [
+    "water",
+    "star"
+  ],
+  "artifacts": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "battler",
+  "name": "Battler",
+  "image": "characters/White/battler.png",
+  "side": "white",
+  "roles": [
+    "figure"
+  ],
+  "personality": "unknown",
+  "affiliation": [
+    "Rokkenjima"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": "not-applicable",
+  "artifacts": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "sei",
+  "name": "Sei",
+  "image": "characters/White/sei.png",
+  "side": "white",
+  "roles": [
+    "figure"
+  ],
+  "personality": "lawful-good",
+  "affiliation": [
+    "Группа Сей"
+  ],
+  "description": "",
+  "knownInfo": "Мечница, что почти слепо следует приказам и прихотям своего напарника Данте, слепо ему доверяя. В народе же известна как мечница с доброй душой, но среди знати она изветна как воровка, которая украла артефакт у свеого отца",
+  "attributes": [
+    "void",
+    "star"
+  ],
+  "artifacts": [
+    {
+      "id": "unknown-sword",
+      "name": "Неизвестный белый меч"
+    }
+  ]
+}

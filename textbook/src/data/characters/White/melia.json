@@ -1,0 +1,19 @@
+{
+  "id": "melia",
+  "name": "Melia",
+  "image": "characters/White/Melia.png",
+  "side": "white",
+  "roles": [
+    "figure"
+  ],
+  "personality": "lawful-good",
+  "affiliation": [
+    "Группа Сей"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": [
+    "light"
+  ],
+  "artifacts": null
+}

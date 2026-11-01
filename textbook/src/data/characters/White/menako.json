@@ -1,0 +1,19 @@
+{
+  "id": "menako",
+  "name": "Menako",
+  "image": "characters/White/Menako.png",
+  "side": "white",
+  "roles": [
+    "figure"
+  ],
+  "personality": "lawful-neutral",
+  "affiliation": [
+    "Группа Сей"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": [
+    "earth"
+  ],
+  "artifacts": null
+}

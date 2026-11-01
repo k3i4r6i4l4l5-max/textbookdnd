@@ -1,0 +1,19 @@
+{
+  "id": "gord",
+  "name": "Gord",
+  "image": "characters/Black/Gord.jpg",
+  "side": "black",
+  "roles": [
+    "figure"
+  ],
+  "personality": "lawful-neutral",
+  "affiliation": [
+    "Организация Фааля"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": [
+    "water"
+  ],
+  "artifacts": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "godrik",
+  "name": "Godrik",
+  "image": "characters/Neutral/Godrik.png",
+  "side": "neutral",
+  "roles": [
+    "figure"
+  ],
+  "personality": "chaotic-good",
+  "affiliation": [
+    "Rokkenjima"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": [],
+  "artifacts": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "edgar",
+  "name": "Edgar",
+  "image": "characters/Neutral/Edgar.jpg",
+  "side": "neutral",
+  "roles": [
+    "figure"
+  ],
+  "personality": "lawful-good",
+  "affiliation": [
+    "Rokkenjima"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": [],
+  "artifacts": null
+}

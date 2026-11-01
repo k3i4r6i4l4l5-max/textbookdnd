@@ -1,0 +1,23 @@
+{
+  "id": "shin",
+  "name": "Shin",
+  "image": "characters/White/Shin.png",
+  "side": "white",
+  "roles": [
+    "figure"
+  ],
+  "personality": "lawful-neutral",
+  "affiliation": [
+    "Группа Сей"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": [],
+  "artifacts": [
+    {
+      "id": "red-sword",
+      "name": "Красный Меч - Арон",
+      "image": "artifacts/aron.png"
+    }
+  ]
+}

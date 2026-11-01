@@ -1,0 +1,20 @@
+{
+  "id": "livian",
+  "name": "Livian",
+  "image": "characters/Neutral/Livian.png",
+  "side": "neutral",
+  "roles": [
+    "figure"
+  ],
+  "personality": "lawful-neutral",
+  "affiliation": [
+    "Неизвестно"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": [
+    "darkness",
+    "void"
+  ],
+  "artifacts": null
+}

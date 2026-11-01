@@ -1,0 +1,17 @@
+{
+  "id": "maya",
+  "name": "Maya",
+  "image": "characters/Neutral/Maya.png",
+  "side": "neutral",
+  "roles": [
+    "figure"
+  ],
+  "personality": "lawful-good",
+  "affiliation": [
+    "Rokkenjima"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": [],
+  "artifacts": null
+}

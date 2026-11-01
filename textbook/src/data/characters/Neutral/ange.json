@@ -1,0 +1,19 @@
+{
+  "id": "ange",
+  "name": "Ange",
+  "image": "characters/Neutral/ange.png",
+  "side": "neutral",
+  "roles": [
+    "figure"
+  ],
+  "personality": "lawful-good",
+  "affiliation": [
+    "Rokkenjima"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": [
+    "earth"
+  ],
+  "artifacts": null
+}

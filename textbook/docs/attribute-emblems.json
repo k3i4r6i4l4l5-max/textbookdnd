@@ -1,0 +1,68 @@
+[
+  {
+    "id": "fire",
+    "file": "public/attributes/fire.webp",
+    "prompt": "Use case: logo-brand. Create ONE original fantasy ATTRIBUTE EMBLEM, a premium magical heraldic insignia for a gothic encyclopedia. This is a SYMBOLIC LOGO, NOT an illustration of natural elements, NOT a scene, NOT a photograph. Square image with genuinely transparent background. A bold symmetrical central sigil made of aged champagne gold with subtle bevelled metal finish and restrained ivory highlights; one elegant thin broken circular halo shared across the collection. Strong readable silhouette, medium-thick strokes, refined pointed geometry, minimal ornament, no microscopic details, logo occupies 80% of square with clear padding. Flat front view, isolated cutout. No pedestal, scenery, particles, smoke, bloom, text, letters, words, numbers, UI or frame. Unmistakable designed heraldic mark, not a generic thin line icon. FIRE: an abstract upward triple-pointed flame crown enclosing a small central diamond. Angular sweeping flame-shaped blades arranged in strict symmetry. Heraldic seal expressing inner essence.",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "earth",
+    "file": "public/attributes/earth.webp",
+    "prompt": "Use case: logo-brand. Create ONE original fantasy ATTRIBUTE EMBLEM, a premium magical heraldic insignia for a gothic encyclopedia. This is a SYMBOLIC LOGO, NOT an illustration of natural elements, NOT a scene, NOT a photograph. Square image with genuinely transparent background. A bold symmetrical central sigil made of aged champagne gold with subtle bevelled metal finish and restrained ivory highlights; one elegant thin broken circular halo shared across the collection. Strong readable silhouette, medium-thick strokes, refined pointed geometry, minimal ornament, no microscopic details, logo occupies 80% of square with clear padding. Flat front view, isolated cutout. No pedestal, scenery, particles, smoke, bloom, text, letters, words, numbers, UI or frame. Unmistakable designed heraldic mark, not a generic thin line icon. EARTH: a solid faceted hexagonal mountain sigil with a central diamond and three stacked foundation bars. Grounded, heavy geometric silhouette; crystalline heraldry, not an actual rock or landscape.",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "water",
+    "file": "public/attributes/water.webp",
+    "prompt": "Use case: logo-brand. Create ONE original fantasy ATTRIBUTE EMBLEM, a premium magical heraldic insignia for a gothic encyclopedia. This is a SYMBOLIC LOGO, NOT an illustration of natural elements, NOT a scene, NOT a photograph. Square image with genuinely transparent background. A bold symmetrical central sigil made of aged champagne gold with subtle bevelled metal finish and restrained ivory highlights; one elegant thin broken circular halo shared across the collection. Strong readable silhouette, medium-thick strokes, refined pointed geometry, minimal ornament, no microscopic details, logo occupies 80% of square with clear padding. Flat front view, isolated cutout. No pedestal, scenery, particles, smoke, bloom, text, letters, words, numbers, UI or frame. Unmistakable designed heraldic mark, not a generic thin line icon. WATER: a graceful nested teardrop crest above two mirrored curling wave arms, enclosed in the shared broken halo. A designed ceremonial seal, not realistic water.",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "air",
+    "file": "public/attributes/air.webp",
+    "prompt": "Use case: logo-brand. Create ONE original fantasy ATTRIBUTE EMBLEM, a premium magical heraldic insignia for a gothic encyclopedia. This is a SYMBOLIC LOGO, NOT an illustration of natural elements, NOT a scene or photograph. Square, genuinely transparent background. Bold symmetrical central sigil of aged champagne GOLD metal with subtle bevel and restrained ivory highlights, within one elegant thin broken circular halo. Strong readable silhouette, medium-thick strokes, pointed geometry, minimal ornament, no microscopic detail, occupies 80% of square with padding. Flat front view, isolated cutout. No scenery, pedestal, particles, smoke, bloom, text, letters, numbers, UI, frame. A designed heraldic mark, not a generic thin line icon. AIR: three elegant hooked spiral blades forming a balanced swirling triskelion around an open triangular center. Abstract wind heraldry, no clouds or scenery.",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "lightning",
+    "file": "public/attributes/lightning.webp",
+    "prompt": "Use case: logo-brand. Create ONE original fantasy ATTRIBUTE EMBLEM, a premium magical heraldic insignia for a gothic encyclopedia. This is a SYMBOLIC LOGO, NOT an illustration of natural elements, NOT a scene or photograph. Square, genuinely transparent background. Bold symmetrical central sigil of aged champagne GOLD metal with subtle bevel and restrained ivory highlights, within one elegant thin broken circular halo. Strong readable silhouette, medium-thick strokes, pointed geometry, minimal ornament, no microscopic detail, occupies 80% of square with padding. Flat front view, isolated cutout. No scenery, pedestal, particles, smoke, bloom, text, letters, numbers, UI, frame. A designed heraldic mark, not a generic thin line icon. LIGHTNING: a bold angular double-chevron lightning spear with two symmetrical branching prongs and a central diamond joint. Designed magical insignia, not realistic electricity.",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "sky",
+    "file": "public/attributes/sky.webp",
+    "prompt": "Use case: logo-brand. Create ONE original fantasy ATTRIBUTE EMBLEM, a premium magical heraldic insignia for a gothic encyclopedia. This is a SYMBOLIC LOGO, NOT an illustration of natural elements, NOT a scene or photograph. Square, genuinely transparent background. Bold symmetrical central sigil of aged champagne GOLD metal with subtle bevel and restrained ivory highlights, within one elegant thin broken circular halo. Strong readable silhouette, medium-thick strokes, pointed geometry, minimal ornament, no microscopic detail, occupies 80% of square with padding. Flat front view, isolated cutout. No scenery, pedestal, particles, smoke, bloom, text, letters, numbers, UI, frame. A designed heraldic mark, not a generic thin line icon. SKY: an elevated arch and three ascending stepped celestial arcs over a small open diamond, with two wide abstract feather-like side arms. The symbolic vault of heaven. Distinct from AIR spiral and STAR pointed star; no cloud illustration.",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "darkness",
+    "file": "public/attributes/darkness.webp",
+    "prompt": "Use case: logo-brand. Create ONE original fantasy ATTRIBUTE EMBLEM, a premium magical heraldic insignia for a gothic encyclopedia. This is a SYMBOLIC LOGO, NOT an illustration of natural elements, NOT a scene or photograph. Square, genuinely transparent background. Bold symmetrical central sigil of aged champagne GOLD metal with subtle bevel and restrained ivory highlights, within one elegant thin broken circular halo. Strong readable silhouette, medium-thick strokes, pointed geometry, minimal ornament, no microscopic detail, occupies 80% of square with padding. Flat front view, isolated cutout. No scenery, pedestal, particles, smoke, bloom, text, letters, numbers, UI, frame. A designed heraldic mark, not a generic thin line icon. DARKNESS: two opposing sharp crescent blades forming a protective shadow crown around a narrow closed eye-shaped void. Elegant mysterious symmetrical sigil, no skulls or people, preserve metallic gold material.",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "light",
+    "file": "public/attributes/light.webp",
+    "prompt": "Use case: logo-brand. Create ONE original fantasy ATTRIBUTE EMBLEM, a premium magical heraldic insignia for a gothic encyclopedia. This is a SYMBOLIC LOGO, NOT an illustration of natural elements, NOT a scene or photograph. Square, genuinely transparent background. Bold symmetrical central sigil of aged champagne GOLD metal with subtle bevel and restrained ivory highlights, within one elegant thin broken circular halo. Strong readable silhouette, medium-thick strokes, pointed geometry, minimal ornament, no microscopic detail, occupies 80% of square with padding. Flat front view, isolated cutout. No scenery, pedestal, particles, smoke, bloom, text, letters, numbers, UI, frame. A designed heraldic mark, not a generic thin line icon. LIGHT: a radiant circular central sun-disc with a hollow diamond cutout and twelve tapered straight rays, four cardinal rays longer, ceremonial sunburst seal. Geometric light heraldry, no actual lighting scene.",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "void",
+    "file": "public/attributes/void.webp",
+    "prompt": "Use case: logo-brand. Create ONE original fantasy ATTRIBUTE EMBLEM, a premium magical heraldic insignia for a gothic encyclopedia. This is a SYMBOLIC LOGO, NOT an illustration of natural elements, NOT a scene or photograph. Square, genuinely transparent background. Bold symmetrical central sigil of aged champagne GOLD metal with subtle bevel and restrained ivory highlights, within one elegant thin broken circular halo. Strong readable silhouette, medium-thick strokes, pointed geometry, minimal ornament, no microscopic detail, occupies 80% of square with padding. Flat front view, isolated cutout. No scenery, pedestal, particles, smoke, bloom, text, letters, numbers, UI, frame. A designed heraldic mark, not a generic thin line icon. VOID: an empty circular aperture surrounded by three concentric broken gold arcs whose ends turn inward into an impossible hollow core, a bold minimalist absence sigil. No eye, no sun rays, no stars.",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "star",
+    "file": "public/attributes/star.webp",
+    "prompt": "Use case: logo-brand. Create ONE original fantasy ATTRIBUTE EMBLEM, a premium magical heraldic insignia for a gothic encyclopedia. This is a SYMBOLIC LOGO, NOT an illustration of natural elements, NOT a scene or photograph. Square, genuinely transparent background. Bold symmetrical central sigil of aged champagne GOLD metal with subtle bevel and restrained ivory highlights, within one elegant thin broken circular halo. Strong readable silhouette, medium-thick strokes, pointed geometry, minimal ornament, no microscopic detail, occupies 80% of square with padding. Flat front view, isolated cutout. No scenery, pedestal, particles, smoke, bloom, text, letters, numbers, UI, frame. A designed heraldic mark, not a generic thin line icon. STAR: one striking eight-point compass-like star with four long diamond-shaped cardinal points and four shorter diagonal points around a small faceted diamond core. Shared thin broken circular halo behind, clear STAR symbol distinct from the twelve-ray LIGHT sun disc.",
+    "generator": "built-in image_gen"
+  },
+  {
+    "id": "witch-factor",
+    "file": "public/attributes/witch-factor.webp",
+    "prompt": "Use case: logo-brand. Create ONE original fantasy WITCH FACTOR attribute emblem for a gothic encyclopedia. Reference image is style reference only: C:/Users/cyber/Desktop/textbook/public/attributes/darkness.webp. Match its aged champagne gold, subtle bevelled metallic texture, ivory edge highlights, front-facing symmetrical heraldic construction and thin broken circular halo. New central symbol: a vertical faceted diamond core held by THREE interwoven pointed crescent hooks forming a balanced threefold occult knot, a compact supernatural seal of witch essence. Distinct from a star, flame or eye. Strong readable silhouette at small sizes, medium-thick shapes, restrained detail, emblem occupies 85 percent of square. Genuinely transparent background. No words, letters, numbers, scenery, pedestal, particles, bloom, drop shadow or rectangular frame. Single centered emblem only.",
+    "generator": "built-in image_gen"
+  }
+]

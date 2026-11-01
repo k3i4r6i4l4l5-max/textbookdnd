@@ -1,0 +1,17 @@
+{
+  "id": "roses",
+  "name": "Roses",
+  "image": "characters/Wonderworkers/Roses.png",
+  "side": "unknown",
+  "roles": [
+    "wonderworker"
+  ],
+  "personality": "not-applicable",
+  "affiliation": [
+    "Неприменимо"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": "not-applicable",
+  "artifacts": null
+}

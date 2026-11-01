@@ -1,0 +1,19 @@
+{
+  "id": "faal",
+  "name": "Faal",
+  "image": "characters/Black/Faal.png",
+  "side": "black",
+  "roles": [
+    "figure"
+  ],
+  "personality": "lawful-evil",
+  "affiliation": [
+    "Организация Фааля"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": [
+    "water"
+  ],
+  "artifacts": null
+}

@@ -1,0 +1,20 @@
+{
+  "id": "roland",
+  "name": "Roland",
+  "image": "characters/Neutral/Roland.png",
+  "side": "neutral",
+  "roles": [
+    "figure"
+  ],
+  "personality": "lawful-good",
+  "affiliation": [
+    "Rokkenjima"
+  ],
+  "description": "",
+  "knownInfo": "",
+  "attributes": [
+    "fire",
+    "darkness"
+  ],
+  "artifacts": null
+}
