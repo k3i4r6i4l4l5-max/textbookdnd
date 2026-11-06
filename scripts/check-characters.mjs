@@ -1,8 +1,23 @@
 import assert from 'node:assert/strict';
-import { access } from 'node:fs/promises';
+import { access, readdir } from 'node:fs/promises';
 import { createServer } from 'vite';
 import { createElement } from 'react';
 import { renderToString } from 'react-dom/server';
+
+// Windows also needs to catch paths that would fail on GitHub's Linux runner.
+async function checkPublicAsset(url) {
+  if (!url || /^https?:\/\//i.test(url)) return;
+  assert.ok(url.startsWith('/archive/'), `Нет базового пути: ${url}`);
+  let directory = new URL('../public/', import.meta.url);
+  const parts = url.slice('/archive/'.length).split('/');
+  for (let index = 0; index < parts.length; index++) {
+    const part = parts[index];
+    assert.ok(part && part !== '.' && part !== '..', `Некорректный путь: ${url}`);
+    assert.ok((await readdir(directory)).includes(part), `Файл отсутствует или отличается регистр букв: ${url}`);
+    directory = new URL(`${encodeURIComponent(part)}${index < parts.length - 1 ? '/' : ''}`, directory);
+  }
+  await access(directory);
+}
 
 // Exercise Vite's real JSON imports and BASE_URL handling without a browser server.
 const server = await createServer({
@@ -15,15 +30,14 @@ try {
   const { loadCharacters } = await server.ssrLoadModule('/src/data/characterLoader.ts');
   const { readCharacterFilters, filterCharacters, characterTheme } = await server.ssrLoadModule('/src/data/characterFilters.ts');
   const { beyondCategories } = await server.ssrLoadModule('/src/data/beyond.ts');
+  const { attributes } = await server.ssrLoadModule('/src/data/attributes.ts');
+  for (const attribute of attributes) await checkPublicAsset(attribute.image);
 
   assert.equal(new Set(characters.map(character => character.id)).size, characters.length);
   for (const character of characters) {
     assert.equal(findCharacter(character.id), character);
-    if (character.image && !/^https?:\/\//i.test(character.image)) {
-      assert.ok(character.image.startsWith('/archive/'));
-      const asset = character.image.slice('/archive/'.length);
-      await access(new URL(`../public/${asset}`, import.meta.url));
-    }
+    await checkPublicAsset(character.image);
+    for (const artifact of character.artifacts ?? []) await checkPublicAsset(artifact.image);
   }
   assert.equal(findCharacter('missing-character'), undefined);
   const actualSelect = query => filterCharacters(characters, readCharacterFilters(new URLSearchParams(query))).map(character => character.id).sort();

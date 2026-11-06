@@ -12,7 +12,7 @@
   ],
   "description": "",
   "knownInfo": "",
-  "attributes": [],
+  "attributes": ["water"],
   "artifacts": [
     {
       "id": "red-sword",
